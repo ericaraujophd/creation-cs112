@@ -1,0 +1,282 @@
+================================================================================
+                    "WISDOM IN OPTIMIZATION" ASSIGNMENT
+                 Integrating Creation Theology & Computer Science
+================================================================================
+
+CORE QUESTION
+=============
+"Am I designing and deploying these systems as a steward of God's creation, 
+ or am I complicit in extraction, exploitation, or disorder?"
+
+
+ASSIGNMENT STRUCTURE (3 Parts)
+=============================
+
+PART 1: ANALYSIS (25 points)
+   - Choose an inefficient algorithm (bubble sort, linear search, naive 
+     recursion, etc.)
+   - Understand the problem it solves
+   - Calculate time/space complexity
+   - Identify sources of inefficiency
+   - Visualize impact at scale (n=10, 100, 1000, 10,000...)
+   
+   THEOLOGICAL ANGLE: Where is unnecessary work happening? What does this 
+                      reveal about respect for resources?
+
+PART 2: OPTIMIZATION (35 points)
+   - Design a more efficient algorithm
+   - Explain the pattern/structure you discovered
+   - Implement working code
+   - Analyze new complexity
+   - Demonstrate measurable improvement
+   
+   THEOLOGICAL ANGLE: What did you discover about the problem's inherent 
+                      order? How does optimization reflect wisdom?
+
+PART 3: REFLECTION (40 points - 2-3 pages)
+   - Question 1: What did you discover about the problem's structure? 
+                 How is optimization a form of discovery?
+   - Question 2: How many wasted resources did you eliminate? What would 
+                 that mean at scale?
+   - Question 3: How does optimization represent humility about our limits?
+   - Question 4: Are you designing as a steward or extractor?
+   
+   CITE at least 3 theological concepts from the course materials.
+
+
+THEOLOGICAL FOUNDATION
+======================
+
+This assignment rests on 5 key theological ideas:
+
+1. GOD CREATES WITH WISDOM AND ORDER
+   → Psalm 104: "How many are your works, Lord! In wisdom you made them all"
+   → Problems have inherent structure that efficient algorithms exploit
+
+2. HUMANS ARE STEWARDS, NOT OWNERS
+   → "Humanity's responsibility is that of a gardener...show great sensitivity 
+      to resources"
+   → We're accountable for how we use computational resources
+
+3. INEFFICIENCY IS DISORDER
+   → Unnecessary work contradicts creation's order
+   → Wasted resources are disrespectful to creation and to those affected
+
+4. WISDOM RECOGNIZES STRUCTURE AND CONSTRAINTS
+   → Understanding the problem and designing within real limits is wise
+   → Brute force approaches ignore the problem's actual structure
+
+5. WE ARE ACCOUNTABLE FOR OUR CHOICES
+   → Technical choices reflect values
+   → We must be intentional, not careless
+
+
+GRADING RUBRIC
+==============
+
+PART 1 (Analysis):
+   Clarity (8 pts)      - Algorithm/problem explained, complexity correct
+   Depth (10 pts)       - Identifies inefficiencies, visualizes impact
+   Insight (7 pts)      - Understands WHY it's inefficient
+
+PART 2 (Optimization):
+   Correctness (12 pts) - Algorithm correct and actually more efficient
+   Insight (12 pts)     - Clear explanation of discovered structure
+   Implementation (11 pts) - Code is functional, well-commented, tested
+
+PART 3 (Reflection):
+   Theological Engagement (12 pts) - Accurate use of 3+ concepts from texts
+   Connection to Practice (12 pts) - Grounded in your specific algorithm
+   Critical Thinking (10 pts)      - Acknowledges complexity and trade-offs
+   Personal Responsibility (6 pts) - Honest reflection on your choices
+
+
+SUGGESTED ALGORITHMS
+====================
+
+Pick one or propose your own:
+
+Basic: Bubble sort vs. Merge sort
+       Linear search vs. Binary search
+       Nested loops finding duplicates vs. Hash set
+
+Intermediate: Fibonacci (naive recursive vs. dynamic programming)
+              String matching (naive vs. KMP)
+              Graph traversal (DFS with poor data structures vs. optimized)
+
+Advanced: Matrix multiplication (naive vs. optimized)
+          Database queries (full scan vs. indexed)
+          AI/ML model efficiency
+
+
+KEY THEOLOGICAL TEXTS
+=====================
+
+From your course materials:
+
+- Pobee, "Creation Faith and Responsibility" 
+  (gardener metaphor, stewardship, dominion as limited authority)
+
+- Lim, "Creation and Economics"
+  (technology responsible to moral order, appropriate technology)
+
+- Gunton, "The Triune Creator"
+  (ethical dimensions of creation doctrine)
+
+- "Intro to Christian Theology"
+  (creation doctrine, God's sovereignty, human limitation)
+
+- Psalm 104
+  (celebration of God's wisdom in creation's design)
+
+
+CLASSROOM INTEGRATION
+===================
+
+First Class:
+  - Introduce core question
+  - Walk through example (bubble sort) together
+  - Connect to theology framework
+  - Distribute assignment
+
+Throughout:
+  - Use discussion prompts to deepen thinking
+  - Reference the "Translation Guide" to connect concepts
+  - Discuss real-world system examples
+  - Address common pushback
+
+Office Hours:
+  - Help students articulate their design choices
+  - Push toward honest reflection
+  - Use guided questions rather than giving answers
+
+
+KEY LEARNING OUTCOMES
+====================
+
+Students will:
+
+1. Understand algorithms technically
+   - How to analyze efficiency
+   - How to optimize for real constraints
+   - How to balance trade-offs
+
+2. Understand theological frameworks
+   - Creation doctrine basics
+   - Stewardship concepts
+   - Human accountability
+
+3. Integrate the two
+   - See technical work as moral work
+   - Ask stewardship questions about systems they build
+   - Develop habits of intentional design
+
+4. Reflect on their vocation
+   - Recognize their responsibility as engineers
+   - Begin asking: "What values does this system reflect?"
+   - Imagine themselves as stewards in their future work
+
+
+COMMON STUDENT QUESTIONS
+=========================
+
+Q: "Is optimization always necessary?"
+A: No, but you should be CONSCIOUS of when it isn't. That's the difference 
+   between thoughtful design and thoughtless design.
+
+Q: "In industry, we don't have time for this. Isn't it idealistic?"
+A: Real companies optimize because it saves money and energy at scale. And 
+   yes, there's pressure to ship fast. But that doesn't excuse carelessness.
+
+Q: "Why are we mixing religion and CS?"
+A: Because every system reflects values. This is one framework for thinking 
+   about those values. Even if you don't share the theology, the underlying 
+   point—that you should think about values in design—is sound.
+
+Q: "I don't know what 'right answer' you want for the reflection."
+A: There isn't one. I'm looking for honest engagement with the questions 
+   and real connection to your algorithm.
+
+
+SUCCESS LOOKS LIKE
+==================
+
+When this assignment is working, students will:
+
+✓ Understand WHY an algorithm is inefficient, not just that it is
+✓ Articulate the problem structure they discovered
+✓ Ask genuine questions about responsibility
+✓ Reference stewardship when discussing design
+✓ Remember these conversations years later
+
+
+FILES INCLUDED IN THIS PACKAGE
+==============================
+
+1. Wisdom_in_Optimization_Assignment.md
+   - Complete assignment for students
+   - Full theological grounding
+   - Rubric and algorithm suggestions
+   - Discussion prompts
+
+2. Teaching_Notes_Wisdom_in_Optimization.md
+   - Facilitation guide for instructors
+   - In-class walkthrough lesson
+   - Common student responses and how to handle them
+   - Discussion strategies
+   - Grading guidance
+   - Extension ideas
+   - Troubleshooting
+
+3. Theology_CS_Translation_Guide.md
+   - Quick reference: theology → CS concepts
+   - Concrete examples
+   - Decision framework for design
+   - Glossary
+   - Application to each course
+
+4. README.md
+   - Overview of the complete package
+   - How to use each document
+   - Adaptation suggestions
+   - Success indicators
+
+5. This file: ASSIGNMENT_OVERVIEW.txt
+   - High-level summary
+
+
+ADAPT FOR YOUR CONTEXT
+======================
+
+For Databases:
+  Focus on query optimization, index effectiveness, system-wide impact
+
+For Computational Modeling:
+  Focus on model complexity, carbon footprint, appropriate simplicity
+
+For other CS courses:
+  Keep the core structure: technical work + theological reflection + 
+  real-world connection
+
+For non-Christian students:
+  Frame as ethical frameworks for technology; offer secular alternatives
+
+For struggling students:
+  Simplify reflection, scaffold templates, focus on technical parts
+
+For advanced students:
+  Extend to systemic thinking, real-world case studies, larger questions
+
+
+REMEMBER
+========
+
+This assignment isn't about making students into theologians. It's about 
+making them thoughtful engineers—people who recognize that technical work 
+is moral work, that systems reflect values, and that stewardship is a real 
+and important commitment.
+
+When a student says, "I'd never thought of my code as a choice before," 
+that's success.
+
+================================================================================
