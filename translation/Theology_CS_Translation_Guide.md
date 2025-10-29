@@ -1,6 +1,7 @@
-# Theology-to-CS Translation Guide
-## Creation Doctrine in Algorithm Design
-
+---
+title: Theology-to-CS Translation Guide
+subtitle: Creation Doctrine in Algorithm Design
+date: 2025-10-28
 ---
 
 ## The Core Insight
