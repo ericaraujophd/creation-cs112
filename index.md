@@ -15,6 +15,19 @@ This assignment was developed with the assistance of Copilot and Claude LLM syst
 
 ## Contents
 
+This project is organized into four main sections[^1]:
+
+[^1]: It might be strange to some that I start counting at 0. Welcome to computer science!
+
+### 0. Orientation
+
+In this section you will find:
+
+- A quick-start guide for instructors
+- A summary of what makes this assignment effective
+- Suggestions for adapting to different courses and student populations
+- Key theological texts referenced
+
 ### 1. Assignment
 
 The complete student assignment (3 parts):
@@ -38,7 +51,7 @@ This is what students will see. It includes:
 
 ### 2. Teaching Notes
 
-Under the **Support** tab you will find a detailed facilitation guide for instructors:
+Under the **Support** section you will find a detailed facilitation guide for instructors:
 
 - How to frame the assignment in the first class
 - Suggested 30-45 minute walkthrough lesson
@@ -58,7 +71,7 @@ Under the **Support** tab you will find a detailed facilitation guide for instru
 
 ### 3. A Theology-to-CS Translation Guide
 
-Under the **Translation** tab you will find a quick reference translating theological concepts into CS language:
+Under the **Translation** section you will find a quick reference translating theological concepts into CS language:
 
 - 6 key theological concepts → CS practice mappings
 - Concrete examples for each
@@ -75,108 +88,11 @@ Under the **Translation** tab you will find a quick reference translating theolo
 
 ---
 
-## Quick Start
-
-### For Your First Class
-
-1. Read the "Framing the Assignment (First Class)" section of Teaching Notes section
-2. Use the "Suggested In-Class Walkthrough" to introduce the concept
-3. Distribute the Assignment to students
-
-### For Ongoing Teaching
-
-- Use discussion prompts from Teaching Notes throughout the unit
-- Reference the Translation Guide when students ask questions like "How does this connect?"
-- Refer to "Common Student Responses" when you hear pushback
-- Use the Grading Rubric as you evaluate assignments
-
-### For Office Hours
-
-- Help students understand their algorithm is a "choice" with theological implications
-- Use the decision framework from Translation_Guide to help them articulate their design choices
-- If they're struggling with reflection: use guided questions rather than providing answers
-
----
-
-## What Makes This Effective
-
-This assignment works because it:
-
-1. **Grounded in Core Theology** - The reflection isn't arbitrary; it comes directly from creation doctrine, stewardship concepts, and biblical teaching on human responsibility in the texts from your project
-
-2. **Technically Rigorous** - Parts 1 & 2 are genuine CS work (analysis, optimization, implementation). The theology isn't a distraction; it deepens the technical thinking
-
-3. **Integrative** - It helps students see their faith and their craft as integrated, not compartmentalized
-
-4. **Skill-Building** - Students develop real habits: asking about resource usage, understanding problem structure, making intentional design choices
-
-5. **Honest About Complexity** - It acknowledges real tensions (time-to-market vs. stewardship, optimization vs. readability, perfectionism vs. intention)
-
----
-
-## How to Adapt This
-
-### For Different Courses
-
-**Databases:**
-
-- Focus on query optimization and the impact of inefficient queries
-- Discuss resource consumption of full table scans vs. indexed queries
-- Consider inclusion/exclusion of users based on system speed
-
-**Computational Modeling:**
-
-- Focus on model complexity vs. accuracy trade-offs
-- Discuss carbon footprint of large models
-- Consider: Is a simpler model better stewardship?
-
-**Any Course:**
-
-- Adapt the "suggested algorithms" list to what you teach
-- Adjust reflection questions to your domain
-- Keep the core question: "Am I designing as a steward or extractor?"
-
-### For Different Student Populations
-
-**Non-Christian Students:**
-
-- Frame as "ethical frameworks for technology design"
-- Offer secular alternative ethical frameworks (utilitarianism, virtue ethics) for reflection
-- The core ideas (accountability, wisdom, responsibility) are philosophically sound across worldviews
-
-**Advanced Students:**
-
-- See "Ways to Extend the Assignment" in Teaching_Notes
-- Push toward systemic thinking (how do your choices affect others at scale?)
-- Explore real-world case studies
-
-**Struggling Students:**
-
-- Simplify the reflection with scaffolded templates
-- Make reflection discussion-based instead of written
-- Focus on the technical parts (analysis + optimization) with lighter theology load
-
----
-
-## Key Theological Texts Referenced
-
-This assignment draws from the course project materials:
-
-- **Creation Faith and Responsibility** (Pobee) - on gardening vs. mining, stewardship, dominion as limited authority
-- **Creation and Economics** (Lim) - on technology, responsibility to moral order, stewardship
-- **Intro to Christian Theology** - systematic creation doctrine, God's sovereignty, human limitation
-- **The Triune Creator** (Gunton) - ethical dimensions of creation doctrine
-- **Psalm 104** - celebration of God's wisdom in creation's design
-
-All theological claims in the assignment are grounded in these texts. You can cite them directly when students ask "where does this come from?"
-
----
-
 ## Core Message to Students
 
 Through this work, students should understand:
 
-> "Your technical choices aren't neutral. Every algorithm, every design decision, reflects values about what matters. As a Christian engineer, you're called to ask: Am I designing as a steward of God's creation, or am I complicit in extraction and waste? That's not a soft question. It's foundational to how you should think about your work."
+> Your technical choices aren't neutral. Every algorithm, every design decision, reflects values about what matters. As a Christian engineer or computer scientist, you're called to ask: Am I designing as a steward of God's creation, or am I complicit in extraction and waste? That's not a soft question. It's foundational to how you should think about your work.
 
 ---
 
