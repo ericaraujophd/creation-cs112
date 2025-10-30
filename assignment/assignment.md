@@ -23,7 +23,7 @@ downloads:
 
 ## The Doctrine of Creation and Stewardship
 
-This assignment is grounded in the Christian doctrine of creation and the concept of stewardship. The Christian doctrine of creation teaches that God is the Creator of all things, and that humans, created in God's image, are called to be stewards—not exploiters—of creation. This is not merely about environmental care; it extends to how we design and deploy all systems, including computational systems. For this reason, we will start by defining some **key theological principles** that inform our understanding of efficiency and optimization.
+This assignment is grounded in the Christian doctrine of creation and the concept of stewardship. The Christian doctrine of creation teaches that God is the Creator of all things, and that humans, created in God's image, are called to be stewards-not exploiters-of creation. This is not merely about environmental care; it extends to how we design and deploy all systems, including computational systems. For this reason, we will start by defining some **key theological principles** that inform our understanding of efficiency and optimization.
 
 **1. God Creates with Wisdom and Order**
 
@@ -31,7 +31,7 @@ This assignment is grounded in the Christian doctrine of creation and the concep
 
 **2. Humans Bear God's Image and Share in His Responsibility**
 
-Humans are made in God's image (Genesis 1:26-28) and are called to "tend the garden" and "subdue the earth"—but the imagery is of a *gardener*, not a miner. A gardener must show "great sensitivity to resources available and the bounty of God." Our authority is limited; we are stewards, not ultimate owners. [@pobee1985creation]
+Humans are made in God's image (Genesis 1:26-28) and are called to "tend the garden" and "subdue the earth"-but the imagery is of a *gardener*, not a miner. A gardener must show "great sensitivity to resources available and the bounty of God." Our authority is limited; we are stewards, not ultimate owners. [@pobee1985creation]
 
 **3. All Authority is Exercised Under God's Authority**
 
@@ -39,7 +39,7 @@ When humans rule over creation, they do so as delegated stewards under God's sov
 
 **4. Creation is Ordered and Good**
 
-God created a cosmos—a world system marked by order, beauty, and internal relationships held together by design. Each element has been assigned "its place and proper name" by the Creator. This ordering reflects God's nature: "Whatever in creation manifests goodness, truth, and beauty is a pointer to and reflection of what its Creator God essentially and eternally is." [@gunton2001triune]
+God created a cosmos-a world system marked by order, beauty, and internal relationships held together by design. Each element has been assigned "its place and proper name" by the Creator. This ordering reflects God's nature: "Whatever in creation manifests goodness, truth, and beauty is a pointer to and reflection of what its Creator God essentially and eternally is." [@gunton2001triune]
 
 **5. Technological Development Must Be Responsible**
 
@@ -63,10 +63,10 @@ In algorithms and systems, inefficiency means:
 From a Creation perspective, inefficiency represents several failures:
 
 1. **Disorder** (Against God's Creative Order)  
-   God created a cosmos—ordered and beautiful. An inefficient algorithm is chaotic in its relationship to the problem. It imposes unnecessary work on the system rather than discovering and reflecting the problem's inherent structure.
+   God created a cosmos-ordered and beautiful. An inefficient algorithm is chaotic in its relationship to the problem. It imposes unnecessary work on the system rather than discovering and reflecting the problem's inherent structure.
 
 2. **Waste** (Against Stewardship)  
-   Stewardship means using resources wisely. An inefficient algorithm wastes computational resources—energy, processing power, memory—that could be used for other purposes or preserved. In a finite system, waste here means less available elsewhere.
+   Stewardship means using resources wisely. An inefficient algorithm wastes computational resources-energy, processing power, memory-that could be used for other purposes or preserved. In a finite system, waste here means less available elsewhere.
 
 3. **Disrespect for the Created Order** (Against Recognition of Limits)  
    An inefficient system treats computational resources as infinite. But they are finite. The same finiteness principle that limits extraction of natural resources also limits computational resources.
@@ -103,11 +103,11 @@ From this perspective, we have to think about how efficiency shows a respect for
    An efficient design acknowledges that resources are finite and that we are not omnipotent. It says: "This system is not infinite. We must work within its constraints wisely." [@lim1990doctrine]
 
 5. **Protects the Voiceless**  
-   Wasted computational resources have real impacts—higher energy consumption, larger carbon footprints, slower systems that exclude those with limited bandwidth, devices that become obsolete faster. "People should speak and act on behalf of the voiceless." [@lim1990doctrine] Efficient design is a form of justice.
+   Wasted computational resources have real impacts-higher energy consumption, larger carbon footprints, slower systems that exclude those with limited bandwidth, devices that become obsolete faster. "People should speak and act on behalf of the voiceless." [@lim1990doctrine] Efficient design is a form of justice.
 
 :::{admonition} Psalm 104 and the Wonder of Efficiency
 :class: important
-Psalm 104 celebrates the beauty and order of creation—how God sustains systems with elegance. The water cycle, ecosystems, the food chain—all operate with intricate efficiency. When we design efficient algorithms, we are recognizing and reflecting something true about how creation actually works.
+Psalm 104 celebrates the beauty and order of creation-how God sustains systems with elegance. The water cycle, ecosystems, the food chain-all operate with intricate efficiency. When we design efficient algorithms, we are recognizing and reflecting something true about how creation actually works.
 :::
 
 ---
@@ -165,13 +165,13 @@ The theological texts emphasize that God created the world with wisdom and order
 
 **Question 2: Stewardship and Resources**
 
-The doctrine of creation teaches that we are called to be stewards—showing great sensitivity to resources available. How many additional CPU cycles, memory, or energy does the inefficient algorithm waste compared to your optimized version? What does this waste represent, and why should we care?
+The doctrine of creation teaches that we are called to be stewards-showing great sensitivity to resources available. How many additional CPU cycles, memory, or energy does the inefficient algorithm waste compared to your optimized version? What does this waste represent, and why should we care?
 
 Consider: If this inefficient algorithm were used in a system deployed at scale (millions of devices, running continuously), what would be the cumulative impact? Who might be affected by that waste?
 
 **Question 3: The Ethics of Power**
 
-Human authority over creation is "circumscribed" and we are "neither omniscient nor all-powerful." An inefficient algorithm often represents a kind of laziness—taking the easy approach rather than the wise approach. How does optimization represent a form of humility and responsibility?
+Human authority over creation is "circumscribed" and we are "neither omniscient nor all-powerful." An inefficient algorithm often represents a kind of laziness-taking the easy approach rather than the wise approach. How does optimization represent a form of humility and responsibility?
 
 **Question 4: Am I Designing Systems as a Steward or as an Extractor?**
 
@@ -278,4 +278,4 @@ Before or after submitting:
 > 
 > *May the glory of the Lord endure forever; may the Lord rejoice in his works.*
 
-The psalm celebrates God's wisdom in design, the intricate sustainability of creation's systems, and the responsiveness of all creatures to the Creator. When we design efficient systems, we participate in this celebration—recognizing and reflecting the wisdom already present in creation.
+The psalm celebrates God's wisdom in design, the intricate sustainability of creation's systems, and the responsiveness of all creatures to the Creator. When we design efficient systems, we participate in this celebration-recognizing and reflecting the wisdom already present in creation.

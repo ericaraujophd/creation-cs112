@@ -251,7 +251,7 @@ Everything in this guide comes back to one question:
 
 > **"Am I designing and deploying these systems as a steward of God's creation, or am I complicit in extraction, exploitation, or disorder?"**
 
-When you ask this question consistently—in code reviews, in design decisions, in algorithm choices—you're doing something important. You're integrating your faith and your craft. You're recognizing that your technical work isn't separate from your theological commitments; it's an expression of them.
+When you ask this question consistently-in code reviews, in design decisions, in algorithm choices--you're doing something important. You're integrating your faith and your craft. You're recognizing that your technical work isn't separate from your theological commitments; it's an expression of them.
 
 That doesn't mean you get it right every time. But it means you're asking.
 
@@ -279,7 +279,7 @@ That doesn't mean you get it right every time. But it means you're asking.
 
 ## One More Time
 
-Remember: You're not trying to be a theologian. You're trying to be a *thoughtful engineer*—someone who recognizes that the systems you build reflect values, have impacts, and deserve intentional design.
+Remember: You're not trying to be a theologian. You're trying to be a *thoughtful engineer*--someone who recognizes that the systems you build reflect values, have impacts, and deserve intentional design.
 
 That's the goal.
 
