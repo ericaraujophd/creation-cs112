@@ -8,7 +8,7 @@ exports:
     id: assignment-export
 downloads:
   - id: assignment-export
-    title: A PDF of this document
+    title: Download the PDF of this document
 
 ---
 
